@@ -1,9 +1,6 @@
 # Switch-Led-Blink
 Simple C code for switching blinking between two LEDs  using Arduino
 
-# Led-Blink
-Simple C code for led blink using Arduino
-
 <img src='image_1.jpg'>
 
 <hr />
